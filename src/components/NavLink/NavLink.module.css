@@ -1,0 +1,19 @@
+.list {
+  margin: 0 auto;
+  margin-top: 10px;
+  display: flex;
+  justify-content: space-between;
+  width: 400px;
+  list-style: none;
+  text-transform: uppercase;
+}
+
+.listItem {
+  text-decoration: none;
+  display: flex;
+  justify-content: space-between;
+  color: #000;
+  font-size: 16px;
+  line-height: 16px;
+  width: 120px;
+}

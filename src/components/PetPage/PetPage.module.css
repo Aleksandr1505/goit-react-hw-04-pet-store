@@ -1,0 +1,45 @@
+.page {
+  margin: 0 auto;
+  margin-top: 30px;
+  width: 1200px;
+}
+
+.button {
+  border: 0;
+  display: block;
+  width: 100px;
+  height: 40px;
+  background: #000;
+}
+
+.link {
+  text-decoration: none;
+  text-transform: uppercase;
+  color: #fff;
+  font-weight: 700;
+}
+
+.blockOne {
+  width: 600px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.blockTwo {
+  display: flex;
+  flex-direction: column;
+}
+
+.image {
+  width: 400px;
+  height: 400px;
+}
+
+.image img {
+  width: 100%;
+  display: block;
+}
+
+.p {
+  width: 140px;
+}
